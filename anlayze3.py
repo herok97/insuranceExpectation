@@ -185,3 +185,7 @@ for i in range(len(target_list)):
 # csv 파일 추출
 result['target'] = target_list
 result[['ID','target']].to_csv('result11.csv', index=False)
+
+
+#printaw
+print()
